@@ -1,1 +1,1 @@
-# NYC-citibike
+# nyc-citibike

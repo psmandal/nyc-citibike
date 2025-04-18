@@ -1,0 +1,19 @@
+# System files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Databases
+*.db
+
+# Virtual environments
+env/
+.venv/
+anaconda_projects/

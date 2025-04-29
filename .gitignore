@@ -16,4 +16,4 @@ __pycache__/
 # Virtual environments
 env/
 .venv/
-anaconda_projects/
+anaconda_projects/nyc-citibike.html
